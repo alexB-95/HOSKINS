@@ -1,0 +1,7 @@
+#general
+numpy
+matplotlib
+
+#astronomy
+astropy
+galpy
